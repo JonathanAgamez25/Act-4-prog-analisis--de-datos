@@ -1,0 +1,4 @@
+beautifulsoup4>=4.12
+pymysql>=1.1
+requests>=2.31
+sqlalchemy>=2.0
