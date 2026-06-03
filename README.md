@@ -12,7 +12,6 @@ Este repositorio contiene la entrega consolidada de la Actividad 4 del curso de 
 - `requirements.txt`: dependencias del proyecto.
 - `tests/test_scrapper.py`: pruebas unitarias.
 - `.github/workflows/ci.yml`: integración continua.
-- `Guion_Video_EA4.md`: guía para grabar la sustentación.
 - `Checklist_Entrega_EA4.md`: lista de verificación final.
 
 ## Validación local
